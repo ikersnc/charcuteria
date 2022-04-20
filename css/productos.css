@@ -33,6 +33,7 @@ aside > fieldset > ul > li {
 }
 
 img {
-    height: 120px;
-    width: 120px;
+    border: 0.2rem solid black;
+    height: auto;
+    width: 250px;
 }
