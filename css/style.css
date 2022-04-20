@@ -1,0 +1,9 @@
+#cabecera {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
