@@ -45,3 +45,16 @@ a {
 }
 
 #titulo { font-size: 3rem;}
+
+article {
+    margin-top: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+#cita {
+    font-size: 4rem;
+}
