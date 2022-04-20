@@ -1,0 +1,17 @@
+aside {
+    margin-top: 1.5rem;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    width: 35rem;
+    flex-direction: column;
+}
+
+aside * {
+    font-size: 1.4rem;
+}
+
+aside > fieldset > ul > li {
+    list-style: none;
+}
