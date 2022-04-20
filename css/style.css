@@ -46,7 +46,7 @@ a {
 
 #titulo { font-size: 3rem;}
 
-article {
+#promo {
     margin-top: 1.2rem;
     display: flex;
     flex-direction: column;
@@ -55,6 +55,26 @@ article {
     background-color: whitesmoke;
 }
 
-#cita {
-    font-size: 4rem;
+#pedido {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cita { font-size: 4rem; }
+
+/* BOTÓN */
+
+#btn {
+    border: 0.5rem solid rgba(0, 0, 0, 1);
+    background-color: whitesmoke;
+    margin-top: 1rem;
+    border-radius: 50%;
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+#btn:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s ease-in-out;
 }
