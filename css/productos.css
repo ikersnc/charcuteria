@@ -28,21 +28,15 @@ aside > fieldset > ul > li {
 #productos {
     background-color: whitesmoke;
     display: flex;
-    justify-content: right;
+    justify-content: space-between;
     align-items: right;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     max-width: 160rem;
 }
 
-.prodRow {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-
 .prodIndi {
-    margin: 1rem 0 0 1rem;
+    margin: 1rem 1rem 0 1rem;
     width: auto;
 }
 
