@@ -42,6 +42,7 @@ aside > fieldset > ul > li {
     flex-wrap: wrap;
     justify-content: space-between;
     width: inherit;
+    /* PARA CONTROLAR EL ESPACIADO ENTRE FILAS */
     height: fit-content;
 }
 
