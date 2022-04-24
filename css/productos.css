@@ -15,6 +15,7 @@ aside {
     align-items: left;
     justify-content: left;
     flex-direction: column;
+    height: fit-content;
 }
 
 aside * {
@@ -32,15 +33,13 @@ aside > fieldset > ul > li {
     align-items: right;
     flex-direction: row;
     flex-wrap: wrap;
-    row-gap: 2rem;
-    max-width: 160rem;
 }
 
 .prodRow {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
     width: inherit;
     /* PARA CONTROLAR EL ESPACIADO ENTRE FILAS */
     height: fit-content;
