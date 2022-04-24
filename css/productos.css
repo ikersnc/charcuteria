@@ -32,6 +32,7 @@ aside > fieldset > ul > li {
     align-items: right;
     flex-direction: row;
     flex-wrap: wrap;
+    row-gap: 2rem;
     max-width: 160rem;
 }
 
@@ -40,12 +41,15 @@ aside > fieldset > ul > li {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    width: auto;
+    width: inherit;
+    height: fit-content;
 }
 
 .prodIndi {
     margin: 1rem 0 0 1rem;
     width: auto;
+    height: fit-content;
+    align-self: auto;
 }
 
 .prodIndi > p {
