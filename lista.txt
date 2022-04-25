@@ -186,3 +186,32 @@ ESPECIALES
     Torreznos de Soria
     Tocino ibérico de bellota
     Panceta Duroc
+
+TOSTAS
+    Tostas Parera
+    Mini tostaditas de pasas
+    Mini tostaditas de arándanos
+    Regañás
+    Bastones de cristal al aceite de oliva
+
+CONSERVAS
+    Tomate asado con leña
+    Tomate asado con leña rallado
+    Tomate entero Éxito 1kg
+    Tomate entero Éxito 1/2kg
+    Tomate frito Éxito
+    Tomate troceado Éxito 1kg
+    Tomate troceado Éxito 1/2kg
+    Tomate triturado Apis
+    Tomate tamizado Tomator
+    Tomate frito Hida
+    Tomate frito Hida cristal
+    Ensalada de pimiento rojo y verde
+    Pimientos del Piquillo enteros extra
+    Pimientos del Piquillo tiras primera
+    Ensalada con atún La niña del Segura
+    Aceitunas verdes con hueso La Ermita
+    Aceitunas rellenas de anchoa La Explanada
+    Alubias blancas cocidas extra
+    Garbanzos cocidos extra
+    Atún claro
