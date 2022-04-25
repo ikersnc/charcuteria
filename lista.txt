@@ -1,0 +1,119 @@
+SALAZONES
+    Mojama extra
+    Hueva Maruca extra
+    Hueva mújol extra
+    Hueva atunarro
+    Hueva de atún Almadraba extra
+    Hueva merluza
+    Bonito extra graso
+    Bonito extra seco
+    Caballa
+    Caballa arreglada con pimentón
+    Atún de hijada en sal o toñina de sorra
+    Anchoas en sal del Cantábrico
+    Anchoas arregladas a mano del Cantábrico en aceite
+    Atún ahumado
+    Salmón ahumado
+    Bacalao ahumado
+    Lomos de Salmón ahumado en aceite
+    Sardinas saladas
+    Capellanes
+    Capellanes arreglados en aceite
+    Pericana alcoyana
+    Bacalao para freír
+    Bacalao inglés
+    Lomos de Bacalao en sal desespinados
+    Hijadas y colas de Bacalao en sal desespinados
+    Lomo de Bacalao inglés para comer crudo
+    Migas de Bacalao inglés para comer crudo
+    Patas de pulpo cocido
+    Boquerón en aceite
+    Colorines (Salmón, Bacalao, hueva y mojama en aceite)
+    Atún en escabeche
+    Tarritos de hueva de Salmón y hueva de mújol
+    Anchoas Lolín en aceite de oliva
+    Anchoas Rezumar etiqueta roja en aceite de oliva
+
+EMBUTIDO SECO
+    Longaniza gruesa seca de Pinoso
+    Longaniza fina seca de Pinoso
+    Morcilla de cebolla seca de Pinoso
+    Morcón blanco de Pinoso
+    Morcón negro de Pinoso
+    Morcón de Jumilla
+    Butifarra de Jumilla
+
+EMBUTIDO FRESCO
+    Longaniza fresca de Pinoso
+    Morcilla de cebolla fresca de Pinoso
+    Chistorra de Pinoso
+    Choricitos de Pinoso
+
+FUETS Y SALCHICHONES
+    Fuet sin pimienta Can Durán
+    Longaniza Imperial El Pozo
+    Fuet metro Senyor Porc
+    Longaniza de Payés Can Durán
+    Longaniza de Payés a la pimienta Can Durán
+    Longaniza de Payés al pimentón Can Durán
+    Mini fuets Can Durán
+
+EMBUTIDO IBÉRICO
+    Lomo blanco
+    Lomo ibérico de cebo
+    Lomo ibérico de bellota
+    Lomo ibérico de bellota Joselito
+    Lomo ibérico de bellota 5 Jotas
+    Salchichón ibérico de bellota
+    Chorizo ibérico de bellota
+
+SOBRASADAS
+    Sobrasada mallorquina Matas
+    Sobrasada mallorquina a la pimienta Matas
+    Sobrasada mallorquina picante
+    Sobrasada mallorquina porc negre
+    Crema de sobrasada tarrina El Vinalopó
+
+JAMONES
+    Jamón deshuesado 
+    Jamón deshuesado bodega
+    Jamón deshuesado ibérico cebo 
+    Paletilla deshuesada ibérica cebo  
+    Jamón bodega al corte
+    Jamón ibérico de cebo al corte
+    Jamón ibérico de bellota al corte
+    Cecina extra de León
+
+LEGUMBRES
+    Garbanzo extra castellano
+    Garbanzo extra Pedrosillano
+    Lenteja extra castellana
+    Lenteja extra pardina
+    Alubia extra de Ávila
+    Alubia extra de Villena
+    Alubia extra pinta
+    Alubia extra fabada asturiana
+    Alubia frisuelo
+    Arroz La Fallera
+
+QUESOS
+    Queso fresco Valle del Carche Jumilla
+    Queso fresco Valle del Carche Jumilla sin sal
+    Queso fresco Valle de Elda
+    Requesón Valle de Elda
+    Queso tierno puro de oveja sin lactosa
+    Queso tierno puro de cabra
+    Queso oreado de cabra
+    Queso semicurado de cabra
+    Queso semicurado mezcla García Baquero
+    Queso semicurado mezcla Los Cameros
+    Queso curado mezcla García Baquero reserva 12 meses
+    Queso curado mezcla Los Cameros
+    Queso curado Boffard
+    Queso curado de oveja Flor de Esgueva
+    Queso curado de oveja El Rincón de la Mancha D.O: Manchego
+    Queso puro de oveja Ojos del Guadiana
+    Queso puro de oveja al romero Cuarto Perea
+    Queso añejo puro de cabra Los Cameros
+    Queso de Mahón añejo
+    
